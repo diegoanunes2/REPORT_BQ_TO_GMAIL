@@ -1,0 +1,6 @@
+pandas>=2.0.1
+protobuf>=5.27.0
+google-auth>=1.0.1
+google-api-python-client>=2.132.0
+pandas-gbq>=0.23.0
+XlsxWriter>=3.2.0
